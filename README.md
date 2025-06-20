@@ -1,0 +1,4 @@
+# Installation
+```
+makepkg -si
+```
